@@ -2,7 +2,7 @@ import numpy as np
 
 
 
-def relative_resigual_cg(A, b, x0=None, eps=1e-8, maxits=1000):
+def relative_residual_cg(A, b, x0=None, eps=1e-8, maxits=1000):
     """Applies the conjugate gradient method for the solution of A x = b 
     until || A x - b  || / || b || < eps.
     """
