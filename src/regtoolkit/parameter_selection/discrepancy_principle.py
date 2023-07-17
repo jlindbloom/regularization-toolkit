@@ -52,3 +52,6 @@ def discrepancy_principle(F, R, y, noise_sigma, safeguard_fac=1.05, cg_tol=1e-4,
     }
 
     return data
+
+
+    
