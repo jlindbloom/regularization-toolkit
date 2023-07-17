@@ -1,4 +1,4 @@
-# regularization-parameter-selection
+# regularization-toolkit
 
 Some Python implementations of regularization parameter selection methods for regularized linear inverse problems.
 
